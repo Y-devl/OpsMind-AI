@@ -1,0 +1,9 @@
+ Employees are allowed 12 casual leaves per year.
+
+ If you forget your password, click on "Forgot Password" on the login page.
+
+ Office working hours are from 9 AM to 6 PM.
+
+ Employees must follow formal dress code from Monday to Thursday.
+
+ For system issues, raise a ticket on the helpdesk portal.
